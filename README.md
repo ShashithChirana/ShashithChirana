@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4E12AQGCWDIkqZ_x2A/article-cover_image-shrink_600_2000/0/1642425545585?e=2147483647&v=beta&t=yBtBuTOnNhvFL3lPfLhjZbfhIPrVqGGUul5dqUPgpQc)
 <h1 align="center">Hi 👋, I'm Shashith Chirana</h1>
-<h3 align="center">A Full-stack developer from Sri Lanka</h3>
+<h3 align="center">SE undergraduate | Full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashithchirana&label=Profile%20views&color=0e75b6&style=flat" alt="shashithchirana" /> </p>
